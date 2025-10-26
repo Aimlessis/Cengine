@@ -16,7 +16,10 @@ int main(){
         if(XQueryPointer(display, root, &root_disp, &child_disp, &rootX, &rootY, &winX, &winY, &mask)){
             if(mask & Button1Mask){
                 printf("(%4d, %4d) \n", rootX, rootY);
-                break;
+                
+            }
+            if(mask & Button3Mask){
+                printf("click derecho \n");
             }
         }
     }
