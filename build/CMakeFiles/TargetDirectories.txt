@@ -1,0 +1,8 @@
+/home/pinpon/projectosC/Cengine/build/CMakeFiles/Cengine.dir
+/home/pinpon/projectosC/Cengine/build/CMakeFiles/edit_cache.dir
+/home/pinpon/projectosC/Cengine/build/CMakeFiles/rebuild_cache.dir
+/home/pinpon/projectosC/Cengine/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
+/home/pinpon/projectosC/Cengine/build/vendored/SDL/CMakeFiles/SDL3_test.dir
+/home/pinpon/projectosC/Cengine/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
+/home/pinpon/projectosC/Cengine/build/vendored/SDL/CMakeFiles/edit_cache.dir
+/home/pinpon/projectosC/Cengine/build/vendored/SDL/CMakeFiles/rebuild_cache.dir

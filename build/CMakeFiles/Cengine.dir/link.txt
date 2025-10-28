@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -Wl,--dependency-file=CMakeFiles/Cengine.dir/link.d CMakeFiles/Cengine.dir/main.c.o -o Debug/Cengine  -Wl,-rpath,/home/pinpon/projectosC/Cengine/build/Debug Debug/libSDL3.so.0.3.3

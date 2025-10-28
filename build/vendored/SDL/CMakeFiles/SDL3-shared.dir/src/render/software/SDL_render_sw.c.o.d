@@ -1,0 +1,19 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/render/software/SDL_render_sw.c.o: \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_render_sw.c \
+ /usr/include/stdc-predef.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/SDL_internal.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/../SDL_sysrender.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/../../video/SDL_surface_c.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/../../video/SDL_blit.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/../SDL_yuv_sw_c.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_render_sw_c.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_draw.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/../../video/SDL_surface_c.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_blendfillrect.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_blendline.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_blendpoint.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_drawline.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_drawpoint.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/SDL_triangle.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/../../video/SDL_pixels_c.h \
+ /home/pinpon/projectosC/Cengine/vendored/SDL/src/render/software/../../video/SDL_rotate.h

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/pinpon/projectosC/Cengine/build/cmake_install.cmake",
+		"/home/pinpon/projectosC/Cengine/build/vendored/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
